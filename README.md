@@ -2,7 +2,7 @@
 
 <table style="border-collapse: collapse; border: none; border-spacing: 0px;">
 	<caption>
-		Generalization of MSFA on different detection frameworks. IMP: Traditional ImageNet Pretrain on backbone network only.
+		웨이트는 [https://gofile.me/7B7yS/aTgTnR1d7]
 	</caption>
 	<tr>
 		<td rowspan="2" colspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
