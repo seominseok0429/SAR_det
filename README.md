@@ -54,7 +54,7 @@
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
             <a href="local_configs\SARDet\r50_IN_sup\fg_frcnn_IN_sup_sar_r50.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
+            <a href="/"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -73,7 +73,7 @@
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
             <a href="local_configs\SARDet\r50_dota_pretrain\fg_frcnn_dota_pretrain_sar_wavelet_r50.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
+            <a href="/"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Cascade RCNN&nbsp;
@@ -94,7 +94,7 @@
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
             <a href="local_configs\SARDet\other_detectors\mrcnn_cascade_IN_sup_r50_sar.py.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
+            <a href="/"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -113,7 +113,7 @@
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
             <a href="local_configs\SARDet\other_detectors\mrcnn_cascade_r50_dota_pretrained_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
+            <a href="/"> weight </a>
 	<tr>
 		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			Grid RCNN&nbsp;
@@ -134,7 +134,7 @@
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
             <a href="local_configs\SARDet\other_detectors\grcnn_IN_sup_r50_sar.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
+            <a href="/"> weight </a>
 	<tr>
 		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
 			MSFA
@@ -153,316 +153,7 @@
 		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
             <a href="local_configs\SARDet\other_detectors\grcnn_r50_dota_pretrained_sar_wavelet.py"> config </a>
 		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td rowspan="7" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			Single
-			<br>
-			    Stage
-		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			RetinaNet&nbsp;
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			IMP
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-			47.4
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			79.3
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			49.7
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			40.0
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			59.2
-		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			57.5
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\retinanet_r50_IN_sup_sar.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			MSFA
-		<td style="border-bottom: 1px solid black; padding-right: 3pt; padding-left: 3pt;">
-			49.0<b> (+1.6)</b>
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			80.1
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			52.6
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			41.3
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			61.1
-		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			59.4
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\retinanet_r50_dota_pretrained_sar_wavelet.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td rowspan="3" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			GFL&nbsp;
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			IMP
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-			49.8
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			80.9
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			53.3
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			42.3
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			62.4
-		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			58.1
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\gfl_r50_IN_sup_sar.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			MSFA
-		<td style="border-bottom: 1px solid black; padding-right: 3pt; padding-left: 3pt;">
-			53.7<b> (+3.9)</b>
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			84.2
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			57.8
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			47.8
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			66.2
-		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			59.5
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\gfl_r50_dota_pretrained_sar_wavelet.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			DenoDet
-		<td style="border-bottom: 1px solid black; padding-right: 3pt; padding-left: 3pt;">
-			55.4<b> (+5.6)</b>
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			84.7
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			58.3
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			49.5
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			67.6
-		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			63.2
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\gfl_r50_dota_pretrained_sar_wavelet.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			FCOS&nbsp;
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			IMP
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-			46.5
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			80.9
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			49.0
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			41.1
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			59.2
-		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			50.4
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\fcos_r50_IN_sup_sar.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			MSFA
-		<td style="border-bottom: 1px solid black; padding-right: 3pt; padding-left: 3pt;">
-			48.5<b> (+2.0)</b>
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			82.1
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			51.4
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			42.9
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			60.4
-		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			56.0
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\fcos_r50_dota_pretrained_sar_wavelet.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td rowspan="6" style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			End to
-			<br>
-			    End
-		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			DETR&nbsp;
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			IMP
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-			31.8
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			62.3
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			30.0
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			22.2
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			44.9
-		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			41.1
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\detr_r50_IN_sup_sar.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			MSFA
-		<td style="border-bottom: 1px solid black; padding-right: 3pt; padding-left: 3pt;">
-			47.2<b> (+15.4)</b>
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			77.5
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			49.8
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			37.9
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			62.9
-		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			58.2
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\detr_r50_dota_pretrained_sar_wavelet.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			Deformable DETR&nbsp;
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			IMP
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-			50.0
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			85.1
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			51.7
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			44.0
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			65.1
-		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			61.2
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\deformable-detr_r50_IN_sup_sar.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			MSFA
-		<td style="border-bottom: 1px solid black; padding-right: 3pt; padding-left: 3pt;">
-			51.3<b> (+1.3)</b>
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			85.3
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			54.0
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			44.9
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			65.6
-		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			61.7
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\deformable-detr_r50_dota_pretrain_sar_wavelet.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			Sparse RCNN&nbsp;
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			IMP
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-			38.1
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			68.8
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			38.8
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			29.0
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			51.3
-		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			48.7
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\sparse-rcnn_r50_IN_spu_sar.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			MSFA
-		<td style="border-bottom: 1px solid black; padding-right: 3pt; padding-left: 3pt;">
-			41.4<b> (+3.3)</b>
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			74.1
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			41.8
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			33.6
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			53.9
-		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			53.4
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\sparse-rcnn_r50_dota_pretrain_sar_wavelet.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-		<td rowspan="2" style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			Dab-DETR&nbsp;
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			IMP
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-			45.9
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			79.0
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			47.9
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			38.0
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			61.1
-		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			55.0
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\dab-detr_r50_IN_sup_sar.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			MSFA
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-			48.2<b> (+2.3)</b>
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			81.1
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			51.0
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			41.2
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			63.1
-		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			55.4
-		<td style="border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_detectors\dab-detr_r50_dota_pretrain_sar_wavelet.py"> config </a>
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
+            <a href="/"> weight </a>
 </table>
 
 
@@ -878,132 +569,7 @@
             <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_van_b_wavelet.py"> config </a>
 		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
             <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			Swin-T&nbsp;
-		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			28.3
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			IMP
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-			48.4
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			83.5
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			50.8
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			42.8
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			59.7
-		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			55.7
-		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_swin_t.py"> config </a>
-		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			MSFA
-		<td style="border-bottom: 1px solid black; padding-right: 3pt; padding-left: 3pt;">
-			50.2<b> (+1.8)</b>
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			84.1
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			53.9
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			44.1
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			61.3
-		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			58.8
-		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_swin_t_wavelet.py"> config </a>
-		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			Swin-S&nbsp;
-		<td rowspan="2" style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			49.6
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			IMP
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-			53.1
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			87.3
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			57.8
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			47.4
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			63.9
-		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			60.6
-		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_swin_s.py"> config </a>
-		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td style="border-right: 1px solid black; border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			MSFA
-		<td style="border-bottom: 1px solid black; padding-right: 3pt; padding-left: 3pt;">
-			54.0<b> (+0.9) </b>
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			87.0
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			59.2
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			48.2
-		<td style="border-bottom: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			64.5
-		<td style="border-bottom: 1px solid black; border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			61.9
-		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_swin_s_wavelet.py"> config </a>
-		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td rowspan="2" style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			Swin-B&nbsp;
-		<td rowspan="2" style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			87.8
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			IMP
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-			53.8
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			87.8
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			59.0
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			49.1
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			64.6
-		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			60.0
-		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_backbones\fg_frcnn_IN_sup_sar_swin_b.py"> config </a>
-		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
-	<tr>
-		<td style="border-right: 1px solid black; text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			MSFA
-		<td style="padding-right: 3pt; padding-left: 3pt;">
-			55.7<b> (+1.9)</b>
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			87.8
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			61.4
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			50.5
-		<td style="text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			66.5
-		<td style="border-right: 1px solid rgb(0, 0, 0); text-align: center; padding-right: 3pt; padding-left: 3pt;">
-			62.5
-		<td style="border-left: 1px solid rgb(0, 0, 0); border-right: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="local_configs\SARDet\other_backbones\fg_frcnn_dota_pretrain_sar_swin_b_wavelet.py"> config </a>
-		<td style="border-left: 1px solid rgb(0, 0, 0); padding-right: 3pt; padding-left: 3pt;">
-            <a href="https://pan.baidu.com/s/1SuEOl_ImqjoT5Y3pYxZt4w?pwd=c6fo"> weight </a>
+
 </table>
   
 ## Installation
